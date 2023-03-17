@@ -1,7 +1,7 @@
 ### Hola, soy Tomás Liam Pertile
 
-Tengo 19 años, soy de Zárate y estoy cursando la carrera Ingeniería en Sistemas de Información.
+-Tengo 19 años, soy de Zárate y estoy cursando la carrera Ingeniería en Sistemas de Información.
 
-Me encanta la tecnología y decidí estudiar esta carrera para desarrollar habilidades y destrezas para mejorar mi futuro laboral y personal.
+-Me encanta la tecnología y decidí estudiar esta carrera para desarrollar habilidades y destrezas para mejorar mi futuro tanto laboral como personal.
 
-Soy aficionado en Python y me interesa mucho la Ciencia de Datos
+-Soy aficionado en Python y me interesa mucho la Ciencia de Datos.
